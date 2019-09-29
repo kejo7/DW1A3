@@ -120,14 +120,14 @@ header{
 }
 
 .instagram {
-    background-image: url("./Imagens/insta.png");
+    background-image: url("insta.png");
     background-repeat: no-repeat;
     background-size: 100%;
     display: inline-block;
 }
 
 .twitter {
-    background-image: url("./Imagens/twitter.png");
+    background-image: url("twitter.png");
     background-repeat: no-repeat;
     background-size: 100%;
     display: inline-block;
