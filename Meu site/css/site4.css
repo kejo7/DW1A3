@@ -69,6 +69,7 @@ blockquote{
 div {
     width: 720px;
     margin: auto;
+    text-align: center;
 }
 
 footer{
@@ -96,7 +97,7 @@ ul{
 .grid-container{
     display:grid;
     grid-template-areas: "header" "nv" "main" "footer";
-    grid-template-rows: 95px 65px 4210px 20px;
+    grid-template-rows: 95px 65px 5500px 20px;
     grid-template-columns: 100%;
 }
 
