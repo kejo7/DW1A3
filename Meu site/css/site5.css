@@ -18,7 +18,7 @@ body{
 #menu ul li { display: inline; }
 
 #menu ul li a {
-    padding: 3px 50px;
+    padding: 3px 20px;
     display: inline-block;
     background-color:#D3D3D3;
     color: #000000;
@@ -58,8 +58,8 @@ p{
 }
 
 blockquote{
-    width: 600px;
-    height: 250px;
+    width: 650px;
+    height: 230px;
     background: #CD853F;
     color: #000000;
     padding: 20px;
@@ -69,6 +69,7 @@ blockquote{
 div {
     width: 720px;
     margin: auto;
+    text-align: center;
 }
 
 footer{
@@ -96,7 +97,7 @@ ul{
 .grid-container{
     display:grid;
     grid-template-areas: "header" "nv" "main" "footer";
-    grid-template-rows: 95px 65px 3000px 20px;
+    grid-template-rows: 95px 65px 5500px 20px;
     grid-template-columns: 100%;
 }
 
@@ -120,49 +121,36 @@ header{
 }
 
 .instagram {
-    background-image: url(insta.png);
+    background-image: url("https://i.ibb.co/K5yKLJH/insta.png");
     background-repeat: no-repeat;
     background-size: 100%;
     display: inline-block;
 }
-
 .twitter {
-    background-image: url(twitter.png);
+    background-image: url("https://i.ibb.co/HhgJgh6/twitter.png");
     background-repeat: no-repeat;
     background-size: 100%;
     display: inline-block;
 }
 
-.imagemum{
-    float: left;
-    margin:0;
+table {
+    border: 2px solid #CD853F; border-collapse: collapse;
+} 
+
+td {
+    border: 2px solid #CD853F;
+    padding: 5px 10px; 
 }
 
-.imagemdois{
-    float: right;
-    margin:0;
+thead {
+    background-color: #A9A9A9;
+} 
+
+th{
+    border: 2px solid #CD853F; 
 }
 
-@media only screen and (grid) and (max-width: 600px){
-    .menu{
-        height: 11.4 em;
-    }
-
-    li{
-        float: none;
-    }
-
-    .texto{
-        margin-left: auto;
-        margin-right: auto;
-        width: auto;
-        text-align: justify;
-    }
-
-    .imagem{
-        text-align: center;
-        margin-left: auto;
-        margin-right: auto;
-    }
-
+article{
+    width: 720px;
+    margin:auto;
 }
