@@ -96,7 +96,7 @@ ul{
 .grid-container{
     display:grid;
     grid-template-areas: "header" "nv" "main" "footer";
-    grid-template-rows: 3,5% 3,5% 92% 1%;
+    grid-template-rows: 3% 3% 93% 1%;
     grid-template-columns: 100%;
 }
 
