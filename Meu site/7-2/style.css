@@ -1,0 +1,17 @@
+body{
+    font-family: "Times New Roman";
+    background: linear-gradient(#A9A9A9,#DCDCDC);
+    margin:0px;
+    margin-top: 0px;
+    font-size: 120%;
+}
+
+.container {
+    position: relative;
+    margin-bottom: 12px;
+    font-size: 22px;
+  }
+
+textarea {
+    border: 2px solid rgb(251, 255, 0); 
+}
