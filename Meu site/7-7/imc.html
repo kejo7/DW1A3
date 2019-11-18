@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="utf-8">
+    <title>Exemplo de Exercício</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+
+    <script type="text/javascript" src="gordura.js"></script>
+</head>
+
+<body>
+      <form id="formulario">
+    	
+            <label for="kilos">Kilos:</label>
+            <input name="kilos" type="text" />
+            <br>
+            <label for="metros">Metros:</label>
+            <input name="metros" type="text" />
+            <br>
+            <label for="centimetros">Centímetros:</label>
+            <input name="centimetros" type="text" />
+            <br>
+            <label for="imc">IMC:</label>
+            <input name="imc" type="text" disabled="disabled" />
+            <br>
+            <button> 
+                  <a href="#" onclick="calcular();">Calcular</a>
+            </button>
+      </form>
+
+      <br>
+
+      <div id='status'></div>
+
+</body>
+</html>
