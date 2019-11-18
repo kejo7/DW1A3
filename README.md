@@ -12,3 +12,5 @@
 [ATIVIDADE 07 - Quinto Exercício](Meu site/7-5/conversortemp.html) <br>
 [ATIVIDADE 07 - Sexto Exercício](Meu site/7-6/combustivel.html) <br>
 [ATIVIDADE 07 - Sétimo Exercício](Meu site/7-7/imc.html) <br>
+[ATIVIDADE 07 - Oitavo Exercício](Meu site/7-8/efeitosmenu.html) <br>
+[ATIVIDADE 07 - Nono Exercício](Meu site/7-9/carrossel.html) <br>
