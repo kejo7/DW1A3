@@ -1,6 +1,6 @@
 body{
     font-family: "Times New Roman";
-    background: linear-gradient(#A9A9A9,#DCDCDC);
+    background: #1E90FF;
     margin:0px;
     margin-top: 0px;
     font-size: 120%;
@@ -11,7 +11,7 @@ h1{
     text-align: center;
     font-size: 50px;
     padding: 25px 0px;
-    background-color: #1f0058;
+    background-color:#000080;
     color: white;
     font-family: "Hepta Slab";
     margin-top: 0px;
@@ -23,8 +23,8 @@ p{
     text-align: justify;
 }
 
-input[type=button]{ 
-    background-color: #4CAF50; /* Green */
+input{ 
+    background-color: #00CED1; /* Green */
     border: solid;
     color: white;
     padding: 15px 32px;
