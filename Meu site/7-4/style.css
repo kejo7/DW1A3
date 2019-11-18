@@ -1,0 +1,34 @@
+body{
+    font-family: "Times New Roman";
+    background: linear-gradient(#A9A9A9,#DCDCDC);
+    margin:0px;
+    margin-top: 0px;
+    font-size: 120%;
+}
+
+h1{
+    margin:0px;
+    text-align: center;
+    font-size: 50px;
+    padding: 25px 0px;
+    background-color: #1f0058;
+    color: white;
+    font-family: "Hepta Slab";
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-bottom: 1px solid #000;
+}
+
+p{
+    text-align: justify;
+}
+
+input[type=button]{ 
+    background-color: #4CAF50; /* Green */
+    border: solid;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+}
