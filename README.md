@@ -9,3 +9,4 @@
 [ATIVIDADE 07 - Segundo Exercício](Meu site/7-2/form.html) <br>
 [ATIVIDADE 07 - Terceiro Exercício](Meu site/7-3/operacoes.html) <br>
 [ATIVIDADE 07 - Quarto Exercício](Meu site/7-4/frasesdasorte.html) <br>
+[ATIVIDADE 07 - Quinto Exercício](Meu site/7-5/conversortemp.html) <br>
