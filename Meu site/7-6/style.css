@@ -1,6 +1,6 @@
 body{
     font-family: "Times New Roman";
-    background: linear-gradient(#A9A9A9,#DCDCDC);
+    background: #FFA500;
     margin:0px;
     margin-top: 0px;
     font-size: 120%;
@@ -27,7 +27,17 @@ input[type=text]{
     background-color: rgb(216, 162, 46); /* Green */
     border: solid;
     color: black;
-    padding: 15px 32px;
+    padding: 5px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+}
+
+button{ 
+    background-color: rgb(216, 162, 46); /* Green */
+    border: solid;
+    color: black;
+    padding: 5px 32px;
     text-align: center;
     display: inline-block;
     font-size: 16px;
