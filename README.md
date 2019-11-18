@@ -10,3 +10,5 @@
 [ATIVIDADE 07 - Terceiro Exercício](Meu site/7-3/operacoes.html) <br>
 [ATIVIDADE 07 - Quarto Exercício](Meu site/7-4/frasesdasorte.html) <br>
 [ATIVIDADE 07 - Quinto Exercício](Meu site/7-5/conversortemp.html) <br>
+[ATIVIDADE 07 - Sexto Exercício](Meu site/7-6/combustivel.html) <br>
+[ATIVIDADE 07 - Sétimo Exercício](Meu site/7-7/imc.html) <br>
