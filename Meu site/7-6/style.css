@@ -24,7 +24,7 @@ p{
 }
 
 input[type=text]{ 
-    background-color: rgb(216, 162, 46); /* Green */
+    background-color: rgb(216, 162, 46);
     border: solid;
     color: black;
     padding: 5px 32px;
@@ -34,7 +34,7 @@ input[type=text]{
 }
 
 button{ 
-    background-color: rgb(216, 162, 46); /* Green */
+    background-color: rgb(216, 162, 46);
     border: solid;
     color: black;
     padding: 5px 32px;
