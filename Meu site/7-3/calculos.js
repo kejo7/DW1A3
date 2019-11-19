@@ -4,6 +4,6 @@ function calcular() {
 
     document.getElementById('soma').innerHTML = ("Soma: " + (n1 + n2) + "<br />");
     document.getElementById('produto').innerHTML = ("Produto: " + (n1 * n2) + "<br />");
-    document.getElementById('divisao').innerHTML = ("Divisão: " + (n1 / n2) + "<br />");    //Calculo de divisão (/)"
+    document.getElementById('divisao').innerHTML = ("Divisão: " + (n1 / n2) + "<br />");    
     document.getElementById('resto').innerHTML = ("Resto: " + (n1 % n2) + "<br >");         //Calculo do resto de uma divisão (%)
 }
